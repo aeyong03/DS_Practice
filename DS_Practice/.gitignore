@@ -1,0 +1,9 @@
+# 실행 파일 제외 (.exe)
+*.exe
+
+# Visual Studio 및 VS Code 임시/캐시 파일 및 폴더 제외
+.vs/
+*.obj
+*.o
+*.out
+*.log
